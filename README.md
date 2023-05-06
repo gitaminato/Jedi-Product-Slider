@@ -18,4 +18,4 @@ Aceito sugestões de melhoria
 
 ## Preview da minha versão
 
-![](C:\Users\Gihanabi\OneDrive\Materiais\nothing4us\Star%20Wars%20Product%20Slider\src\images\preview.png)
+![](https://github.com/gitaminato/Jedi-Product-Slider/blob/main/src/images/preview.png)
