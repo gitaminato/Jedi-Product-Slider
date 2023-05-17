@@ -8,6 +8,10 @@ Veja a página em funcionamento no pages: []()
 
 - Fiz alterações para seguir o tema dos Jedi ao invés do Império, como estava no Pen original da Nothing4Us: [https://codepen.io/nothing4us/pen/NWBKVJd](https://codepen.io/nothing4us/pen/NWBKVJd).
 
+- Troquei a Temática e os produtos.
+
+- Troca de textos e siglas para português-BR
+
 - Aloquei todos os @media para uma aba de responsividade separada.
 
 - Paleta de Cores nova para combinar com os Sabres dos Jedi.
@@ -18,4 +22,4 @@ Aceito sugestões de melhoria
 
 ## Preview da minha versão
 
-![](C:\Users\Gihanabi\OneDrive\Materiais\nothing4us\Star%20Wars%20Product%20Slider\src\images\preview.png)
+![](https://github.com/gitaminato/Jedi-Product-Slider/blob/main/src/images/preview.png)
