@@ -2,7 +2,7 @@
 
 Página com a temática de Star Wars feito para estudos.
 
-Veja a página em funcionamento no pages: []()
+Veja a página em funcionamento no pages: [https://gitaminato.github.io/Jedi-Product-Slider/](https://gitaminato.github.io/Jedi-Product-Slider/)
 
 ## Alterações
 
